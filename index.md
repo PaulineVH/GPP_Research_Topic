@@ -1,9 +1,9 @@
-#Fuzzy Logic System on GPU(=Graphics Programming Units) using CUDA(=Compute Unified Device Architecture)
+# Fuzzy Logic System on GPU(=Graphics Programming Units) using CUDA(=Compute Unified Device Architecture)
 
-##Description of topic
+## Description of topic
 
-##Design Implementation
+## Design Implementation
 
-##Result
+## Result
 
-##Conclusion/Future Work
+## Conclusion/Future Work
